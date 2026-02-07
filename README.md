@@ -31,4 +31,4 @@ Instead of working with raw, noisy data, this script establishes a full analytic
 * **Environment:** Jupyter Notebook / VS Cod
 
   ---
-  ![Alt Text](Screenshots/cleaned-data.png)
+  ![Alt Text](C:/Users/Hp/Pictures/Screenshots/cleaned-data.png)
