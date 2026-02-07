@@ -29,3 +29,6 @@ Instead of working with raw, noisy data, this script establishes a full analytic
 * **Language:** Python 3.13
 * **Libraries:** Pandas, NumPy
 * **Environment:** Jupyter Notebook / VS Cod
+
+  ---
+  ![Alt Text](Screenshots/cleaned-data.png)
