@@ -1,2 +1,6 @@
-# sentiment-data-cleaning-pipeline
-Cleaned 700+ rows by handling nulls and duplicates. Standardized text via normalization and transformed timestamps into datetime objects to engineer an 'Hour' feature for peak activity tracking using Pandas
+# Codveda_sentiment-data-cleaning-Phyton
+Codveda – Task 1 | Python Data Analysis Intern Social Media Sentiments: 
+
+From Raw Text to Actionable Insights — A Data Story 
+
+📊 Pandas | Data Cleaning | Text Preprocessing
