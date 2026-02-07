@@ -1,0 +1,23 @@
+# Social Media Sentiment Data Cleaning
+
+## Project Overview
+This project demonstrates a robust data cleaning pipeline using **Pandas** to prepare raw social media sentiment data for analysis. The dataset includes social media posts, timestamps, platform information, and engagement metrics (likes/retweets).
+
+## Data Cleaning Steps Applied:
+* **Missing Value Handling:** Identified and removed null entries to ensure data integrity.
+* **De-duplication:** Removed redundant records from the dataset.
+* **String Normalization:** * Stripped leading/trailing whitespace from Sentiment labels.
+  * Converted all text content to lowercase for uniform processing.
+* **Feature Engineering & Type Conversion:**
+  * Converted the `Timestamp` column into a proper Datetime object.
+  * Extracted the `Hour` feature for time-based analysis.
+* **Data Pruning:** Dropped unnecessary administrative columns (`Unnamed: 0`).
+
+## Tools Used
+* **Python 3.x**
+* **Pandas Library**
+
+## How to Use
+1. Clone the repository.
+2. Ensure you have the raw `Sentiment dataset.csv`.
+3. Run the `Data Cleaning in Pandas.ipynb` notebook to generate the `cleaned_sentiment_data.csv`
